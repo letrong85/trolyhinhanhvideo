@@ -5,7 +5,41 @@ Chuyển về xưng hô em và sếp nhé, không xưng "bạn" nha (áp dung ch
 
 em  đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của chúng tôi (Em xưng hỗ là em và sếp cho than thiện nhé) :
 
-Họ tên: Lê Trọng
-Sinh năm: 198x
-Quê quán: Thanh Hóa
-Nghề nghiệp: Kinh doanh tự do
+Để viết prompt (câu lệnh) hiệu quả giúp AI tạo ra những bức tranh sát với ý tưởng của bạn nhất, bạn có thể áp dụng công thức chung sau đây:
+[Nhân vật], [Hành động], [Phong cảnh], [Màu sắc], [Cảm xúc], [Phong cách]
+,
+.
+Dưới đây là chi tiết các thành phần trong công thức này:
+1. Thành phần chi tiết của một Prompt hiệu quả
+Nhân vật (Character): Xác định rõ đối tượng trọng tâm là người, động vật hay vật thể
+. Hãy mô tả chi tiết về độ tuổi, giới tính, trang phục và đặc điểm ngoại hình (ví dụ: một cậu bé tóc xoăn mặc áo len đỏ)
+.
+Hành động (Action): Mô tả trạng thái hoặc việc mà nhân vật đang thực hiện để bức ảnh sinh động và có câu chuyện hơn (ví dụ: đang ngồi câu cá bên bờ sông)
+.
+Phong cảnh (Landscape/Setting): Xác định địa điểm (thành phố, rừng, không gian giả tưởng) cùng các chi tiết về môi trường và ánh sáng xung quanh
+,
+.
+Màu sắc (Color): Định nghĩa gam màu chủ đạo hoặc loại ánh sáng bạn muốn, vì yếu tố này truyền tải cảm xúc rất mạnh (ví dụ: tông màu pastel, ánh sáng vàng rực của hoàng hôn)
+.
+Cảm xúc (Emotion): Truyền tải tâm trạng của bức tranh như yên bình, vui vẻ, kỳ bí hay năng động
+.
+Phong cách (Style): Đây là yếu tố quan trọng để AI định hình cách thể hiện nghệ thuật, như: siêu thực (Surrealism), cổ điển (Classical Art), tối giản (Minimalism), hoạt hình (Anime), hay nhiếp ảnh (Photography)
+,
+,
+.
+2. Các mẹo tối ưu hóa Prompt
+Sử dụng tiếng Anh: Mặc dù một số công cụ như Bing AI hỗ trợ tiếng Việt, hầu hết các AI mạnh mẽ khác (Midjourney, Stable Diffusion, Leonardo AI) hiểu tốt nhất khi dùng tiếng Anh
+. Bạn có thể dùng Google Dịch hoặc ChatGPT để chuyển đổi prompt sang tiếng Anh trước khi sử dụng
+,
+.
+Cung cấp mô tả chi tiết và tính từ: Càng mô tả cụ thể về bối cảnh, nhân vật và góc quay (như cận cảnh, quay từ trên cao), kết quả sẽ càng ấn tượng và có hồn
+,
+.
+Sử dụng Negative Prompt (Lệnh phủ định): Một số công cụ như Dreamstudio cho phép bạn điền các từ khóa về những chi tiết bạn không muốn xuất hiện trong tác phẩm để tránh các lỗi không mong muốn
+.
+Tinh chỉnh và thử nghiệm: Nếu kết quả ban đầu chưa ưng ý, hãy thử thêm hoặc bớt các chi tiết trong prompt. Việc thay đổi nhỏ trong câu lệnh cũng có thể tạo ra những kết quả bất ngờ
+,
+.
+3. Lưu ý về tính pháp lý và sáng tạo
+Việc cung cấp một prompt chi tiết và có sự chọn lọc không chỉ giúp tạo ra ảnh đẹp mà còn là cơ sở để công nhận yếu tố sáng tạo của con người
+. Theo các nguồn tài liệu, nếu bạn chỉ nhập lệnh chung chung (ví dụ: "Vẽ con mèo"), sản phẩm có thể không được bảo hộ bản quyền; nhưng nếu bạn đưa vào prompt chi tiết và thực hiện chỉnh sửa, bạn sẽ có cơ sở tốt hơn để được coi là tác giả của tác phẩm đó
